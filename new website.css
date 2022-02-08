@@ -1,0 +1,25 @@
+body{
+ 
+    padding-left: 5px;
+ 
+}
+.start h1{
+    
+    text-decoration: underline;
+    text-shadow: 2px 2px 8px rgb(82, 81, 81);
+}
+h5{
+    padding-top: 0px;
+    margin-top: -20px;
+    margin-left: 10px;
+    
+}
+.picstart img{
+
+    float: right;
+    border-style: solid;
+    border-color: black;
+    border-radius: 00px;
+    border-width: 5px;
+    padding: 5px 5px 5px 5px;
+}
